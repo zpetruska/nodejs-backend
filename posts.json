@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "body": "DEFAULT POST",
+      "author": "Zac Petruska",
+      "id": "post-1"
+    }
+  ]
+}
